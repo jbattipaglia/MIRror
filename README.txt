@@ -5,7 +5,7 @@ Music Information RetRieval cOmputeR Aided Composition
 
 ## About ##
 
-	`Mirror` is a Digital Audio Workstation (DAW) that uses statistical analysis
+`Mirror` is a Digital Audio Workstation (DAW) that uses statistical analysis
 to make "give" musical suggestions to the user. By analyzing existing music, we
 hope to provide a simplified a framework for users without musical background to
 compose music quickly and simply.
@@ -42,6 +42,5 @@ http://soundcloud.com/mirror-project
 Brian Qiu
 Jacob Battipaglia
 Anshul Doshi
-Avinash Kumar
 
 Summer 2018
