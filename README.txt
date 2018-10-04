@@ -15,7 +15,7 @@ Direct analysis at the signal domain is future release (maybe).
 
 ## Requirements ##
 
- * Music21 (Python 3.6)
+   * Music21 (Python 3.6)
    * Matplotlib
    * Qt5
 
@@ -23,7 +23,6 @@ Direct analysis at the signal domain is future release (maybe).
  
  * Lilypond for nice engraved graphics
  * PyGame for nice midi playback
-
 
 ## Usage ##
 
